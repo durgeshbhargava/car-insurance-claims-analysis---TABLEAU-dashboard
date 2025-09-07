@@ -67,3 +67,8 @@ Learned to combine multiple views into a cohesive interactive storyboard.
 Strengthened ability to translate raw data into business insights.
 
 Gained experience in presenting insights to non-technical stakeholders.
+
+## 📊 Dashboard Access
+
+The interactive Tableau dashboard for this project can be accessed here:
+👉 [Car Insurance Claim Dashboard on Tableau Public](https://public.tableau.com/app/profile/durgesh.bhargava7387/viz/DATAVISUALISATIONBYTABLEAUPROJECT/STORYDASHBOARD?publish=yes)
